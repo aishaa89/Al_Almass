@@ -1,0 +1,14 @@
+.col-md-6:hover img{
+    transform: scale(.7);
+    -webkit-transform: scale(.7);
+    -moz-transform: scale(.7);
+    -ms-transform: scale(.7);
+    -o-transform: scale(.7);
+}
+.col-md-6 img{
+    transition: 1s transform;
+    -webkit-transition: 2s transform;
+    -moz-transition: 1s transform;
+    -ms-transition: 1s transform;
+    -o-transition: 1s transform;
+}
