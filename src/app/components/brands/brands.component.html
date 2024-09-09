@@ -1,0 +1,45 @@
+
+
+<div class="container">
+    <div class="row mt-5" [dir]="lang=='en'?'ltr':'rtl'" >
+      <div class="col-md-6">
+        <div>
+          <img src="assets/images/logo2.jpeg" class="w-100 rounded rounded-circle" height="300" alt="about-img">
+
+        </div>
+    </div>
+    <div class="col-md-6"  >
+      <div class="aboutus mt-5">
+        <h2 class="fw-bold fs-3 text-center">{{"Al Almas"|translate}}</h2>
+        <p class="fs-5 text-center"> {{"Al ALmas heavy transport spare parts trading"|translate}}
+          {{"We have experience in importing heavy transport spare parts"|translate}} {{"Wholesale and retail"|translate}} 
+      </p>
+      
+      </div>
+      
+    </div>
+
+    <div class="col-md-12 mt-4">
+      <div class="text-center">
+        <h2 class="fw-bold fs-1">{{"Our Goal"|translate}}</h2>
+        <p class="fw-medium fs-5">{{"Striving to have a role and imprint in helping the customer obtain spare parts without hassle and to fulfill his trust"|translate}}</p>
+      </div>
+    </div>
+      </div>
+        <div class="row mt-5"  >
+        <div class="col-md-12">
+          <h2 class="text-center fw-bold fs-3">{{"Brands"|translate}}</h2>
+          <owl-carousel-o [options]="customOptions">
+              <ng-container *ngFor="let slide of slidesStore">
+                <ng-template carouselSlide [id]="slide.id">
+                  <img [src]="slide.src" height="150vh" [alt]="slide.alt" [title]="slide.title">
+                </ng-template>
+              </ng-container>
+          
+            </owl-carousel-o>
+      </div>
+        </div>
+      
+    
+
+</div>

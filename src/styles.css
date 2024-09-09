@@ -9,10 +9,10 @@
     --rating-color:#ffc908;
    --main-transition:0.8s;
 }
-body{
+/* body{
     font-family: var(--font-family)!important;
 
-}
+} */
 .rating-color
 {
     color:var(--rating-color);
@@ -45,11 +45,12 @@ a{
 }
 .text-main
 {
-    color: #C4C4C4;
+    color: #0872AF;
 }
 .bg-main
 {
-    background-color: var(--main-color)!important;
+    background-color:#d6e7ee !important;
+   
 }
 .bg-main-light 
 {
@@ -65,3 +66,5 @@ a{
     color: chartreuse;
 
 }
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
