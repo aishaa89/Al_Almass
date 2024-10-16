@@ -34,5 +34,17 @@
      "Regular maintenance":"صيانة دورية",
      "Air conditioning service":"خدمة تكييف الهواء",
      "Electrical inspection and repair":"فحص وإصلاح الكهرباء",
-     "Oil change":"تغيير الزيت"
+     "Oil change":"تغيير الزيت",
+     "telfaramel MP1/MP2":"تيل فرامل MP1/MP2",
+     "telfaramelforward MP3":"تيل فرامل أماميMP3",
+     "telfaramelBackward MP3":"تيل فرامل خلفي MP3",
+     "telfaramelMp4":"تيل فرامل MP4",
+     "telfaramel 260 MCV":"تيل فرامل 260 MCV",
+     "telfaramelMan":"تيل فرامل مان",
+     "telfaramelSmallBrad":"تيل فرامل براد صغير",
+     "telfaramelBigBrad":"تيل فرامل براد كبير",
+     "telfaramelVolvo":"تيل فرامل فولفو",
+     "ProductDetailes":"تفاصيل المنتج",
+     "telfaramel":"تيل فرامل",
+     "telfaramelforward":"تيل فرامل أمامي"
 }

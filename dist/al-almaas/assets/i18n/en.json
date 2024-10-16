@@ -33,7 +33,18 @@
       "Regular maintenance":"Regular maintenance",
       "Air conditioning service":"Air conditioning service",
       "Electrical inspection and repair":"Electrical inspection and repair",
-      "Oil change":"Oil change"
-
+      "Oil change":"Oil change",
+      "telfaramel MP1/MP2":"telfaramel MP1/MP2",
+      "telfaramelforward MP3":"telfaramelforward MP3",
+      "telfaramelBackward MP3":"telfaramelBackward MP3",
+      "telfaramelMp4":"telfaramelMp4",
+      "telfaramel 260 MCV":"telfaramel 260 MCV",
+      "telfaramelMan":"telfaramelMan",
+      "telfaramelSmallBrad":"telfaramelSmallBrad",
+      "telfaramelBigBrad":"telfaramelBigBrad",
+      "telfaramelVolvo":"telfaramelVolvo",
+      "ProductDetailes":"ProductDetailes",
+      "telfaramel":"telfaramel",
+      "telfaramelforward":"telfaramelforward"
 
 }
